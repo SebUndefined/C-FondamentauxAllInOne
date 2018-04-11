@@ -70,7 +70,23 @@ namespace _02_ClassesEtStructures
 
 
             //Propriété
+            Client client1 = new Client();
+            client1.Name = "Sébastien";
+            client1.Age = 29;
+            client1.Age = 20; // Doit échouer
+            Console.WriteLine("Client : " + client1.Name + " a " + client1.Age + " ans.");
 
+            //Types anonyme
+            var adresse = new { Rue = "12 rue de la fauvette", CP = "34000", Ville="Annecy" };
+            var adresse2 = new { Rue = "13 rue de martine", CP = "30999", Ville="UneVille" };
+            var adresse3 = new {  CP = "12000", Rue = "6 avenue GP", Ville ="Paris", Pays = "France"};
+            var adresse4 = new {  CP = "36000", Ville="Berlin", Rue = "768 Boulevard JH", Pays = "Allemagne" };
+
+            Console.WriteLine("La variable adresse est de type " + adresse.GetType().ToString());
+            Console.WriteLine("La variable adresse2 est de type " + adresse2.GetType().ToString());
+            //Type différents
+            Console.WriteLine("La variable adresse3 est de type " + adresse3.GetType().ToString());
+            Console.WriteLine("La variable adresse4 est de type " + adresse4.GetType().ToString());
             Console.ReadLine();
         }
     }
