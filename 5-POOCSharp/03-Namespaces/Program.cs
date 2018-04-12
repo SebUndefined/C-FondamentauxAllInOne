@@ -10,6 +10,7 @@ namespace _03_Namespaces
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Pouet!!");
         }
     }
 }
