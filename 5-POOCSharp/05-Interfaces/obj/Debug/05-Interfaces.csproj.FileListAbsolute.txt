@@ -1,0 +1,7 @@
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\05-Interfaces\bin\Debug\05-Interfaces.exe.config
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\05-Interfaces\bin\Debug\05-Interfaces.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\05-Interfaces\bin\Debug\05-Interfaces.pdb
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\05-Interfaces\obj\Debug\05-Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\05-Interfaces\obj\Debug\05-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\05-Interfaces\obj\Debug\05-Interfaces.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\05-Interfaces\obj\Debug\05-Interfaces.pdb
