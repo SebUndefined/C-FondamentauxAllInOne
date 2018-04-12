@@ -1,0 +1,7 @@
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\04-heritage\bin\Debug\04-heritage.exe.config
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\04-heritage\bin\Debug\04-heritage.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\04-heritage\bin\Debug\04-heritage.pdb
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\04-heritage\obj\Debug\04-heritage.csprojResolveAssemblyReference.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\04-heritage\obj\Debug\04-heritage.csproj.CoreCompileInputs.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\04-heritage\obj\Debug\04-heritage.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\04-heritage\obj\Debug\04-heritage.pdb
