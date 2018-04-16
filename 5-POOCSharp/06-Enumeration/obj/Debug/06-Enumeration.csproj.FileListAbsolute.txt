@@ -4,3 +4,4 @@ C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\06-Enumera
 C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\06-Enumeration\obj\Debug\06-Enumeration.csproj.CoreCompileInputs.cache
 C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\06-Enumeration\obj\Debug\06-Enumeration.exe
 C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\06-Enumeration\obj\Debug\06-Enumeration.pdb
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\06-Enumeration\obj\Debug\06-Enumeration.csprojResolveAssemblyReference.cache
