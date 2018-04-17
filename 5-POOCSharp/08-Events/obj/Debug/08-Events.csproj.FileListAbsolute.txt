@@ -4,3 +4,4 @@ C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-Events\
 C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-Events\obj\Debug\08-Events.csproj.CoreCompileInputs.cache
 C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-Events\obj\Debug\08-Events.exe
 C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-Events\obj\Debug\08-Events.pdb
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-Events\obj\Debug\08-Events.csprojResolveAssemblyReference.cache

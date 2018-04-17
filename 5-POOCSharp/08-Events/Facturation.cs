@@ -30,10 +30,12 @@ namespace _08_Events
 
             //Si un ou plusieurs gestionnaire sont définis
             //Handler ne sera pas null
-            if(handler != null)
+            if (handler != null)
             {
                 handler(this, e);
             }
         }
+
+        
     }
 }
