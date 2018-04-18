@@ -1,0 +1,7 @@
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-EventsPerso\obj\Debug\08-EventsPerso.csprojResolveAssemblyReference.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-EventsPerso\obj\Debug\08-EventsPerso.csproj.CoreCompileInputs.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-EventsPerso\bin\Debug\08-EventsPerso.exe.config
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-EventsPerso\bin\Debug\08-EventsPerso.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-EventsPerso\bin\Debug\08-EventsPerso.pdb
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-EventsPerso\obj\Debug\08-EventsPerso.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\08-EventsPerso\obj\Debug\08-EventsPerso.pdb

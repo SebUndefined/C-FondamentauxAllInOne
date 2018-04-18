@@ -1,0 +1,7 @@
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\12-Asynchrone\bin\Debug\12-Asynchrone.exe.config
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\12-Asynchrone\bin\Debug\12-Asynchrone.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\12-Asynchrone\bin\Debug\12-Asynchrone.pdb
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\12-Asynchrone\obj\Debug\12-Asynchrone.csprojResolveAssemblyReference.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\12-Asynchrone\obj\Debug\12-Asynchrone.csproj.CoreCompileInputs.cache
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\12-Asynchrone\obj\Debug\12-Asynchrone.exe
+C:\Users\sebas\dev\C#\Book\CSharp7-Fondamentaux\Exercices\5-POOCSharp\12-Asynchrone\obj\Debug\12-Asynchrone.pdb
